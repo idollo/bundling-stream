@@ -1,0 +1,22 @@
+{
+  "name": "bundling-stream",
+  "version": "0.1.1",
+  "preferGlobal": "true",
+  "description": "bundle the writing data for decreasing the IOPS. such as writing logs to disk.",
+  "author": {
+    "name": "idollo",
+    "email": "stone58@qq.com"
+  },
+  "homepage": "https://github.com/idollo/bundling-stream",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:idollo/bundling-stream.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
